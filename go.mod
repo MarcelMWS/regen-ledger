@@ -30,4 +30,4 @@ require (
 
 replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.2-alpha.regen.4
 
-replace github.com/cosmos/cosmos-sdk => repo.mwaysolutions.com/blockscape/cosmos-sdk-cpv v0.41.0-regen-tx-spam-0.0.1
+replace github.com/cosmos/cosmos-sdk => github.com/MarcelMWS/cosmos-sdk v0.41.0-regen-tx-spam-0.0.1
